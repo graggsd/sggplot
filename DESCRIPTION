@@ -1,0 +1,13 @@
+Package: sggplots
+Type: Package
+Title: Makes custom plots using ggplot2
+Version: 0.1.0
+Author: Stephen Gragg
+Maintainer: Stephen Gragg <graggsd@uab.edu>
+Description: This package contains custom plots for personal use.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: ggplot2,
+    magrittr

@@ -1,4 +1,4 @@
-Package: sggplots
+Package: sggplot
 Type: Package
 Title: Makes custom plots using ggplot2
 Version: 0.1.0
